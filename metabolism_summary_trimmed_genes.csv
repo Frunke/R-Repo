@@ -1,0 +1,64 @@
+﻿gene_description,module,Su22_1856_I_D90_Am_bin.41,Su22_1856_I_D90_E_bin.152,Su22_1894_T_D90_D_bin.235,OWC_0818_M1_M_E022_D31_DNA_S89_L002_bin.8,Su22_1894_T_D90_A_bin.224,OWC_0818_M1_M_E09.bin.39,OWC_0818_M1_M_E021_D31_DNA_S88_L002_bin.7,Su22_1894_T_D90_A_bin.232,Su22_1845_C_D90_A_bin.94,OWC_0818_M1_M_E017E020E021E022_Coassembly_bin.12,OWC_0818_M1_M_E022_D31_DNA_S89_L002_bin.7,Su22_1894_T_D90_A_bin.77,Su22_1856_I_D90_A_bin.493,OWC_0818_M1_M_E09.bin.38,Su22_1856_I_D90_Am_bin.578,OWC_0818_M1_M_E05.bin.15,OWC_0818_M1_M_E017E020E021E022_Coassembly_bin.36,OWC_0818_M1_M_E022_D31_DNA_S89_L002_bin.10,OWC_0818_M1_M_E017E020E021E022_Coassembly_bin.50,OWC_0818_M1_M_CoA1_E05E08E09_bin.40
+trimethylamine N-oxide aldolase [EC:4.1.2.32],Methyl-N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"dmd, tmd; dimethylamine/trimethylamine dehydrogenase [EC:1.5.8.1/2]",Methyl-N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TorA;  trimethylamine N-oxide reductase [ec:1.7.2.3],Methyl-N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+QhpA; quinohemoprotein amine dehydrogenase/methylamine dehydrogenase [EC:1.4.9.1],Methyl-N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MauB; methylamine dehydrogenase light chain [EC:1.4.9.1],Methyl-N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MauB; methylamine dehydrogenase heavy chain [EC:1.4.9.1],Methyl-N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tmm;  trimethylamine monooxygenase [EC:1.14.13.148],Methyl-N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MgsA; methylamine-glutamate N-methyltransferase subunit A [EC:2.1.1.21],Methyl-N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MtbB; dimethylamine methyltransferase,Methyl-N,0,0,2,2,0,0,1,5,2,0,0,2,2,0,2,3,0,0,0,7
+MtbC; dimethylamine corrinoid binding protein,Methyl-N,0,0,1,0,0,0,0,1,0,0,0,1,2,0,2,2,0,0,1,2
+MtmB; monomethylamine methyltransferase,Methyl-N,7,0,6,2,0,0,2,2,6,0,0,2,8,0,8,0,2,2,2,1
+MtmC; monomethylamine corrinoid binding protein,Methyl-N,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,2
+MtbA; methylamine methylcorrinoid:CoM methyltransferase [EC:2.1.1.247],Methyl-N,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,2,2,1,1,0
+RamA; methylamine corrinoid binding protein reductive activase,Methyl-N,2,0,0,1,0,1,1,0,0,0,1,1,0,0,0,2,1,0,0,1
+"MttB/MtxB; Trimethylamine methyltransferase [EC:2.1.1.250], potentially a quaternary amine enzyme if lacking pyrrolysine",Methyl-N,4,0,2,2,0,0,1,4,4,0,0,2,4,1,4,2,0,0,0,0
+MttC; trimethylamine corrinoid binding protein [EC:2.1.1.247],Methyl-N,3,1,3,2,1,1,1,4,6,0,0,2,5,1,5,4,1,1,1,0
+"MtxB; Quaternary amine methyltransferase (Glycine betaine methyltransferase, MtgB) [EC:2.1.1.376]",Methyl-N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MtgC; Quaternary amine/glycine betaine corrinoid binding protein,Methyl-N,2,0,2,1,1,1,0,4,5,0,0,2,6,0,6,2,0,1,1,2
+MtgA; Quaternary amine/glycine betaine specific methylcorrinoid:THF methyltransferase,Methyl-N,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+MV8460; methanogenic glycine betaine:corrinoid methyltransferase,Methyl-N,1,0,1,2,0,0,1,3,3,0,0,1,2,1,2,2,0,0,0,0
+MV8465; methanogenic glycine betaine corrinoid binding protein,Methyl-N,2,0,1,1,1,1,0,4,4,0,0,2,4,0,4,1,0,1,1,2
+MV10335/RamM; methanogenic corrinoid-protein reductive activase,Methyl-N,0,1,0,1,1,0,1,2,1,0,0,0,0,1,1,1,1,0,1,1
+MtpB; proline betaine:corrinoid methyltransferase,Methyl-N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MtcB: L-carnitine:corrinoid methyltransferase,Methyl-N,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+MtyB; gamma-butyrobetaine:corrinoid methyltransferase,Methyl-N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MtqC; quaternary amine promiscuous corrinoid binding protein,Methyl-N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MtqA; quaternary amine promiscuous methylcorrinoid:THF methyltransferase,Methyl-N,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RamQ; quaternary amine promiscuous corrinoid protein reductive activase,Methyl-N,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MtaB; methanol:corrinoid methyltransferase [EC:2.1.1.90],Methyl-O,0,1,1,2,0,0,2,2,2,0,0,2,2,1,3,1,2,1,3,3
+MtaA; methanol specific methylcorrinoid:CoM methyltransferase [EC:2.1.1.246],Methyl-O,1,3,1,3,3,1,3,1,1,0,2,2,1,3,1,1,3,2,2,5
+MtaC; methanol corrinoid binding protein,Methyl-O,0,1,0,3,0,0,3,2,2,0,0,2,2,2,3,3,3,1,4,1
+MtvC; vanillate/O-demethylase corrinoid binding protein,Methyl-O,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MtvA; vanillate/O-demethylse specific methylcorrinoid:THF methyltransferase,Methyl-O,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"vanillate corrinoid binding protein, OdmA",Methyl-O,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VdmB; veratrole corrinoid methyltransferase,Methyl-O,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VdmA; veratole corrinoid binding protein ,Methyl-O,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VdmD; veratrole specific methylcorrinoid:THF methyltransferase,Methyl-O,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SECO (secoisolariciresinol) corrinoid methyltransferase, E. limosum ZL-II, ELI_2003",Methyl-O,0,1,1,2,0,0,2,2,2,0,0,2,2,0,2,1,2,1,3,2
+"SECO (secoisolariciresinol) corrinoid binding protein, E. limosum ZL-II, ELI_2004",Methyl-O,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SECO (secoisolariciresinol) methylcorrinoid:THF, E. limosum ZL-II, ELI_2005",Methyl-O,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SECO corrinoid binding protein reductive activase/AE,E. limosum ZL-II, ELI_0370",Methyl-O,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MtoC; methoxy corrinoid binding protein,Methyl-O,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MtoA; methoxy specific methylcorrinoid:H4MPT methyltranferase (AF_0009),Methyl-O,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,3
+"O-demethylase D. hafniense DCB2, methyltransferase Dhaf_4610",Methyl-O,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"O-demethylase D. hafniense DCB2, corrinoiding binding protien, Dhaf_4611",Methyl-O,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"O-demethylase D. hafniense DCB2, methylcorrinoid:THF methyltransferase, Dhaf_4612",Methyl-O,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"reductivase activase, D. hafniense DCB2, AE, Dhaf_2573",Methyl-O,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0
+OdmB; vanillate methyltransferase [PFAM:O87604],Methyl-O,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Odmc; methoxy-specific reductivase activase/Activating Enzyme ,Methyl-O,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0
+OdmD; vanillate specific methylcorrinoid:THF methyltransferase,Methyl-O,1,0,1,2,1,1,2,2,2,1,1,1,0,1,0,2,2,1,1,3
+MtvB; vanillate methyltransferase/O-demethytlase,Methyl-O,2,3,4,7,5,3,7,2,3,0,5,3,4,4,4,7,7,8,9,9
+MtoB; methoxy corrinoid methyltransferase,Methyl-O,2,3,4,7,5,3,7,2,3,0,5,3,4,4,4,7,7,8,9,9
+Odmc; methoxy-specific reductivase activase/Activating Enzyme ,Methyl-O,3,1,0,4,2,2,4,3,1,0,3,2,2,1,3,4,3,2,5,3
+Odmc; methoxy-specific reductivase activase/Activating Enzyme ,Methyl-O,3,2,0,4,2,2,4,2,1,0,3,2,2,1,3,4,3,2,4,2
+"MtsA; methylsulfide (DMS, MMPA) methyltransferase [EC:2.1.1.251]",Methyl-S,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MddA; methanethiol S-methyltransferase [EC:2.1.1.334],Methyl-S,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1
+"MtsB; methylsulfide (DMS, MMPA) corrinoid binding protein",Methyl-S,1,1,1,3,0,0,3,2,3,0,0,2,3,2,4,3,3,1,4,1
+"dimethylsulfide:corrinoid methyltransferase, MtsD",Methyl-S,0,1,0,2,1,0,2,0,0,0,0,0,0,0,0,4,2,1,1,4
+"methanethiol:corrinoid methyltransferase, MtsF",Methyl-S,0,0,0,0,0,1,0,0,0,0,3,0,1,0,1,0,0,1,3,1
+"methylsulfur-compound:corrinoid methyltransferase, MtsH",Methyl-S,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+"methylmercaptopropionate:corrinoid methyltransferase (MT1/2), MtpA",Methyl-S,1,0,3,4,0,2,4,2,2,0,2,3,2,2,2,2,4,2,3,4
+"methylmercaptopropionate corrinoid binding protein, MtpC",Methyl-S,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RamS; reductive activase,Methyl-S,1,0,0,2,0,1,2,1,0,0,1,1,2,0,2,1,1,2,2,1
