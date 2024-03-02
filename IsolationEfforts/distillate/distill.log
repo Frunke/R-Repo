@@ -1,0 +1,8 @@
+2024-01-10 11:47:57,680 - The log file is created at distillate/distill.log
+2024-01-10 11:47:57,964 - Note: the following id fields were not in the annotations file and are not being used: ['kegg_id', 'camper_id', 'fegenie_id', 'sulfur_id'], but these are ['kegg_genes_id', 'ko_id', 'kegg_hit', 'peptidase_family', 'cazy_best_hit', 'pfam_hits', 'methyl_id']
+2024-01-10 11:47:58,047 - Genome summary form location for Sulfur must be set in order to summarize genomes with this database.
+2024-01-10 11:47:58,095 - Retrieved database locations and descriptions
+2024-01-10 11:47:58,112 - Calculated genome statistics
+2024-01-10 11:48:45,400 - Generated genome metabolism summary
+2024-01-10 11:49:13,499 - Generated product heatmap and table
+2024-01-10 11:49:13,499 - Completed distillation

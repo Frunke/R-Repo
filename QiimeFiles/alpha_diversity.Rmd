@@ -1,0 +1,136 @@
+---
+title: "Alpha Diversity"
+output: html_notebook
+---
+
+Load libraries
+```{r}
+library(tidyverse)
+library(vegan)
+library(plyr)
+```
+
+Import Tables
+```{r}
+asv <- read_csv("table.from_biom_after_rare.csv")
+metadata <- read_csv("enrichment_metadata.csv")
+```
+
+
+
+Convert table so that each row is a different sample and each column is indivual asv abundances. Th pivot_longer number will vary based on how many samples are in your dataframe. The first column is ASV IDs, so we will pivot to make the table longer so that it is only 3 columns (ASV, Sample, counts) and then will pivot_wider so ASV IDs are now individual columns and the first column is sample IDs.
+```{r}
+table <- asv %>%
+  pivot_longer(2:16, names_to = "Sample", values_to = "counts") %>% 
+  pivot_wider(names_from = "ASV ID", values_from = counts)
+```
+
+Calculate richness for each sample. Richness is a measure of alpha diversity that calculates the number of unique features in a community. Here a feature is reprentated at the ASV level, but could be calculated for different levels such as Genus, Family, Class, etc.
+```{r}
+richness<-  ddply(table,~Sample,function(x) {
+   data.frame(Richness=sum(x[-1]>0))
+ })
+```
+
+Calculate evenness using the Pilou evenness (J). Eveness is a measure of how homogenous a community is in terms of abudance of features present. A community with a high degree of evenness is characterized by all features having equal abudance whereas communties with low evenness will be characterized by high domiance of a few features.
+```{r}
+evenness<- ddply(table,~Sample,function(x) {
+         data.frame(Evenness=diversity(x[-1], index="simpson")/log(sum(x[-1]>0)))
+ })
+```
+
+Calculate shannon diversity index (H) for each sample. Shannon diversity index is a measure of alpha diversity that takes into account both richness and eveness. Shannon index is the proportion  of individuals of one particular feature found  divided by the total number of individuals found.
+```{r}
+shannon <- ddply(table,~Sample,function(x) {
+         data.frame(Shannon=diversity(x[-1], index="shannon"))
+ })
+
+```
+
+
+Merge calculations into one table
+```{r}
+join <- shannon %>% 
+  full_join(richness) %>% 
+  full_join(evenness) %>% 
+  inner_join(metadata) %>% 
+  pivot_longer(2:4, names_to = "Type", values_to = "Diversity")
+```
+
+Plot tables
+```{r}
+plot <- ggplot(join, aes(x=Treatment, y=Diversity, fill=RME)) +
+  geom_boxplot() +
+  facet_wrap(~Type, scales="free")+
+  theme_bw()
+   
+plot
+```
+
+
+Determine if alpha diversity is different between treatments/plots/etc using ANOVA (anlaysis of variance) and TukeyHSD post hoc test. In this example we will only go through Shannon diversity.
+
+```{r}
+alpha <- shannon %>% 
+  full_join(richness) %>% 
+  full_join(evenness) %>% 
+  inner_join(metadata) 
+```
+
+ANOVA requires a mix of one continuous quantitative dependent variable (which corresponds to the measurements to which the question relates) and one qualitative independent variable (with at least 2 levels which will determine the groups to compare).
+Assumptions:
+  1. Observations are independent
+  2.Sample size
+      a) small sample sizes (less than 30 samples per group) must have normal distribution; if               distribution is not normal use Kruskal-Wallis test
+      b) large sample sizes (more than 30 samples per group) normal distribution is assumed
+  3. Equal variance, if variance is not equal use a Welch ANOVA
+  
+To test for normality, we must first run the ANOVA
+```{r}
+res_aov <- aov(Richness ~ Treatment*RME, data = alpha)
+```
+
+Normality can be tested in several ways both visually (histogram and QQ-plot) and more formally using a Shapiro-Wilkes test. Here we will only go over the Shapiro-Wilkes test
+```{r}
+shapiro.test(res_aov$residuals)
+```
+
+If p-value is >0.05 we do not reject our hypothesis that variance is equal between species, or in other words our assumption of equal variance is met.
+
+Homogeneity of variance can be assessed visually (using a boxplot or dotplot) or can be done with Levene’s or Bartlett’s test. We will go over Levene's test here.
+```{r}
+library(car)
+
+leveneTest(Shannon ~ Treatment, data = alpha)
+```
+If p-value is >0.05 we do not reject our hypothesis that residuals follow a normal distribution, or in other words our assumption of normality is met.
+
+
+To look at results from the ANOVA
+```{r}
+res_aov <- aov(Evenness ~ Treatment*RME, data = alpha)
+
+summary(res_aov)
+```
+
+
+If the p-value is smaller than 0.05, at least one site has different shannon diversity than the others, but in order to determine which sites are different from each other we have to do post-hoc analysis. Here we will use a Tukey HSD to compare all groups to each other
+```{r}
+tukey<-TukeyHSD(res_aov)
+
+tukey
+```
+
+
+If normality is not met, to run a Kruskal-Wallis test
+```{r}
+kw_test <- kruskal.test(Richness ~ Treatment, data = alpha)
+kw_test
+```
+
+We will use a pairwise wilcox test for the posthoc anlaysis to determine which sites are different from each other.
+```{r}
+pairwise.wilcox.test(alpha$Richness, alpha$Treatment,
+                 p.adjust.method = "BH")
+```
+

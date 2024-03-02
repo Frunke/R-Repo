@@ -1,0 +1,96 @@
+Taxon	No. Expected in Tree	F-measure	Precision	Recall	No. Genomes from Taxon	No. Genome In Lineage	Rogue out	Rogue in
+d__Archaea	523	1.0000	1.0000	1.0000	523	523		
+p__Asgardarchaeota	1	1.0000	1.0000	1.0000	1	1		
+p__Halobacteriota	404	1.0000	1.0000	1.0000	404	404		
+p__Methanobacteriota	72	1.0000	1.0000	1.0000	72	72		
+p__Thermoplasmatota	42	1.0000	1.0000	1.0000	42	42		
+p__Thermoproteota	3	1.0000	1.0000	1.0000	3	3		
+p__Undinarchaeota	1	1.0000	1.0000	1.0000	1	1		
+c__Bog-38	222	1.0000	1.0000	1.0000	222	222		
+c__Lokiarchaeia	1	1.0000	1.0000	1.0000	1	1		
+c__Methanobacteria	72	1.0000	1.0000	1.0000	72	72		
+c__Methanomethylicia	3	1.0000	1.0000	1.0000	3	3		
+c__Methanomicrobia	110	1.0000	1.0000	1.0000	110	110		
+c__Methanosarcinia	72	1.0000	1.0000	1.0000	72	72		
+c__Thermoplasmata	42	1.0000	1.0000	1.0000	42	42		
+c__Undinarchaeia	1	1.0000	1.0000	1.0000	1	1		
+o__Bog-38	222	1.0000	1.0000	1.0000	222	222		
+o__Helarchaeales	1	1.0000	1.0000	1.0000	1	1		
+o__Methanobacteriales	72	1.0000	1.0000	1.0000	72	72		
+o__Methanomassiliicoccales	42	1.0000	1.0000	1.0000	42	42		
+o__Methanomethylicales	3	1.0000	1.0000	1.0000	3	3		
+o__Methanomicrobiales	110	1.0000	1.0000	1.0000	110	110		
+o__Methanosarcinales	25	1.0000	1.0000	1.0000	25	25		
+o__Methanotrichales	47	1.0000	1.0000	1.0000	47	47		
+o__Undinarchaeales	1	1.0000	1.0000	1.0000	1	1		
+f__Bog-38	222	1.0000	1.0000	1.0000	222	222		
+f__HEL-GB-A	1	1.0000	1.0000	1.0000	1	1		
+f__JACIVX01	4	1.0000	1.0000	1.0000	4	4		
+f__JACTUA01	25	1.0000	1.0000	1.0000	25	25		
+f__Methanobacteriaceae	72	1.0000	1.0000	1.0000	72	72		
+f__Methanomethylicaceae	3	1.0000	1.0000	1.0000	3	3		
+f__Methanomethylophilaceae	17	1.0000	1.0000	1.0000	17	17		
+f__Methanoperedenaceae	1	1.0000	1.0000	1.0000	1	1		
+f__Methanoregulaceae	81	1.0000	1.0000	1.0000	81	81		
+f__Methanosarcinaceae	24	1.0000	1.0000	1.0000	24	24		
+f__Methanosphaerulaceae	1	1.0000	1.0000	1.0000	1	1		
+f__Methanospirillaceae	3	1.0000	1.0000	1.0000	3	3		
+f__Methanotrichaceae	47	1.0000	1.0000	1.0000	47	47		
+f__UBA472	21	0.9130	0.8400	1.0000	21	25		OWC_0007,OWC_0008,OWC_0009,OWC_0006
+f__Undinarchaeaceae	1	1.0000	1.0000	1.0000	1	1		
+g__Bog-38	221	1.0000	1.0000	1.0000	221	221		
+g__CAIKOD01	3	1.0000	1.0000	1.0000	3	3		
+g__DYTM01	1	1.0000	1.0000	1.0000	1	1		
+g__FEN-33	5	1.0000	1.0000	1.0000	5	5		
+g__Fen-7	9	1.0000	1.0000	1.0000	9	9		
+g__JACTUA01	20	1.0000	1.0000	1.0000	20	20		
+g__JALHSR01	3	1.0000	1.0000	1.0000	3	3		
+g__MVRC01	5	1.0000	1.0000	1.0000	5	5		
+g__Methanarcanum	3	1.0000	1.0000	1.0000	3	3		
+g__Methanobacterium_A	24	1.0000	1.0000	1.0000	24	24		
+g__Methanobacterium_B	47	1.0000	1.0000	1.0000	47	47		
+g__Methanogranum	1	1.0000	1.0000	1.0000	1	1		
+g__Methanolinea_A	1	1.0000	1.0000	1.0000	1	1		
+g__Methanolobus	2	1.0000	1.0000	1.0000	2	2		
+g__Methanomethylicus	1	1.0000	1.0000	1.0000	1	1		
+g__Methanomethylovorans	10	1.0000	1.0000	1.0000	10	10		
+g__Methanoperedens	1	1.0000	1.0000	1.0000	1	1		
+g__Methanoregula	66	1.0000	1.0000	1.0000	66	66		
+g__Methanosarcina	12	1.0000	1.0000	1.0000	12	12		
+g__Methanospirillum	3	1.0000	1.0000	1.0000	3	3		
+g__Methanothrix	34	1.0000	1.0000	1.0000	34	34		
+g__UBA288	1	1.0000	1.0000	1.0000	1	1		
+g__UBA467	3	1.0000	1.0000	1.0000	3	3		
+g__UBA472	5	1.0000	1.0000	1.0000	5	5		
+g__UBA71	13	1.0000	1.0000	1.0000	13	13		
+g__UBA9949	5	1.0000	1.0000	1.0000	5	5		
+g__Undinarchaeum	1	1.0000	1.0000	1.0000	1	1		
+g__VGLU01	2	1.0000	1.0000	1.0000	2	2		
+s__Bog-38 sp003139855	78	0.9398	0.8864	1.0000	78	88		PLPC01,3300037102_11,20120700_S3D_1,PMIN01,20160700_S15_10,20120700_S3X_23,PLPX01,20120700_S1X_13,3300036906_9,3300037084_9
+s__Bog-38 sp003158275	10	0.6000	0.4500	0.9000	9	20	20120700_S1X_13	20130700_S1Z_1,3300037171_10,3300023088_11,20170700_S25_41,3300037175_7,PLPZ01,20130700_S1Y_7,3300036787_8,20110800_S1D_12,20120700_S2X_11,3300037103_10
+s__Bog-38 sp003162175	120	1.0000	1.0000	1.0000	120	120		
+s__Bog-38 sp003170935	12	1.0000	1.0000	1.0000	12	12		
+s__FEN-33 sp003135935	3	1.0000	1.0000	1.0000	3	3		
+s__FEN-33 sp003153895	1	1.0000	1.0000	1.0000	1	1		
+s__Fen-7 sp003162615	9	1.0000	1.0000	1.0000	9	9		
+s__Methanarcanum sp017455785	2	1.0000	1.0000	1.0000	2	2		
+s__Methanobacterium_A sp003161815	4	1.0000	1.0000	1.0000	4	4		
+s__Methanobacterium_A sp003166335	19	1.0000	1.0000	1.0000	19	19		
+s__Methanobacterium_B sp003151535	2	1.0000	1.0000	1.0000	2	2		
+s__Methanobacterium_B sp003158115	15	1.0000	1.0000	1.0000	15	15		
+s__Methanobacterium_B sp003162115	4	1.0000	1.0000	1.0000	4	4		
+s__Methanobacterium_B sp003162655	24	1.0000	1.0000	1.0000	24	24		
+s__Methanobacterium_B sp003164415	1	1.0000	1.0000	1.0000	1	1		
+s__Methanolobus sp002501695	1	1.0000	1.0000	1.0000	1	1		
+s__Methanomethylovorans hollandica	1	1.0000	1.0000	1.0000	1	1		
+s__Methanomethylovorans sp002508425	4	1.0000	1.0000	1.0000	4	4		
+s__Methanoregula sp003136075	2	1.0000	1.0000	1.0000	2	2		
+s__Methanoregula sp003141335	5	1.0000	1.0000	1.0000	5	5		
+s__Methanoregula sp003154335	6	1.0000	1.0000	1.0000	6	6		
+s__Methanoregula sp003157895	12	1.0000	1.0000	1.0000	12	12		
+s__Methanoregula sp003170075	4	1.0000	1.0000	1.0000	4	4		
+s__Methanosarcina sp003157235	2	1.0000	1.0000	1.0000	2	2		
+s__Methanosarcina sp003164755	8	1.0000	1.0000	1.0000	8	8		
+s__Methanothrix sp002256595	11	1.0000	1.0000	1.0000	11	11		
+s__Methanothrix sp003857025	2	1.0000	1.0000	1.0000	2	2		
+s__Undinarchaeum marinum	1	1.0000	1.0000	1.0000	1	1		

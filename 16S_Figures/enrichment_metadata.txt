@@ -1,0 +1,21 @@
+sample-id	tube	type	Treatment	RME	Host
+R1	1	cannulated	none	none	Fistulated Rumen Fluid 1
+R2	2	rumen fluid	none	High	High 148
+R3	3	rumen fluid	TMA	High	High 212
+R4	4	rumen fluid	MeOH	High	High 212
+R5	5	rumen fluid	TMA	Low	Low 123
+R6	6	rumen fluid	MeOH	Low	Low 123
+R7	7	rumen fluid	TMA	High	High 159
+R8	8	rumen fluid	MeOH	High	High 159
+R9	9	rumen fluid	MeOH	normal_high	1869 D0
+R10	10	rumen fluid	TMA	normal_high	1869 D0
+R11	11	rumen fluid	TMA	normal_low	1856 D90
+R12	12	rumen fluid	MeOH	normal_low	1856 D90
+R13	13	rumen fluid	CT	High	High 212
+R14	14	rumen fluid	CT	normal_high	1869 D0
+R15	15	rumen fluid	CT	High	High 159
+R16	16	rumen fluid	CT	Low	Low 123
+Blank2		blank	blank	blank	
+Blank3		blank	blank	blank	
+NTC		no template	no template	no template	
+NTC		no template	no template	no template	

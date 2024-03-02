@@ -1,0 +1,104 @@
+{
+    "version": "2.3.0",
+    "command_line": "gtdbtk de_novo_wf --archaea --batchfile batchfile.tsv --skip_gtdb_refs --custom_taxonomy_file classification_wOutgroup.txt --outgroup_taxon p__Undinarchaeota --out_dir archaea --cpus 15",
+    "database_version": "r214",
+    "database_path": "/home/opt/gtdbtk/data/release214/",
+    "steps": [
+        {
+            "name": "identify",
+            "output_dir": "archaea",
+            "starts_at": "2024-02-19T14:11:56.552982",
+            "ends_at": "2024-02-19T14:21:49.174942",
+            "duration": "0:09:52",
+            "status": "completed",
+            "genes": false,
+            "extension": "fna",
+            "write_single_copy_genes": false,
+            "genome_dir": null,
+            "batchfile": "batchfile.tsv",
+            "output_files": {
+                "all": [
+                    "archaea/identify/gtdbtk.failed_genomes.tsv",
+                    "archaea/identify/gtdbtk.translation_table_summary.tsv"
+                ],
+                "ar53": [
+                    "archaea/identify/gtdbtk.ar53.markers_summary.tsv"
+                ],
+                "bac120": [
+                    "archaea/identify/gtdbtk.bac120.markers_summary.tsv"
+                ]
+            }
+        },
+        {
+            "name": "align",
+            "output_dir": "archaea",
+            "starts_at": "2024-02-19T14:21:49.176217",
+            "ends_at": "2024-02-19T14:22:15.252130",
+            "duration": "0:00:26",
+            "status": "completed",
+            "identify_dir": "archaea",
+            "skip_gtdb_refs": true,
+            "taxa_filter": null,
+            "min_perc_aa": 10,
+            "custom_msa_filters": false,
+            "skip_trimming": false,
+            "rnd_seed": null,
+            "cols_per_gene": 42,
+            "min_consensus": 25,
+            "max_consensus": 95,
+            "min_perc_taxa": 50,
+            "outgroup_taxon": "p__Undinarchaeota",
+            "output_files": {
+                "ar53": [
+                    "archaea/align/gtdbtk.ar53.filtered.tsv",
+                    "archaea/align/gtdbtk.ar53.user_msa.fasta"
+                ]
+            }
+        },
+        {
+            "name": "infer",
+            "output_dir": "archaea",
+            "starts_at": "2024-02-19T14:22:15.253533",
+            "ends_at": "2024-02-19T14:29:47.553974",
+            "duration": "0:07:32",
+            "status": "completed",
+            "msa_file": "archaea/align/gtdbtk.ar53.user_msa.fasta.gz",
+            "prot_model": "WAG",
+            "no_support": false,
+            "gamma": false
+        },
+        {
+            "name": "root",
+            "output_dir": null,
+            "starts_at": "2024-02-19T14:29:47.554791",
+            "ends_at": "2024-02-19T14:29:48.033214",
+            "duration": "0:00:00",
+            "status": "completed",
+            "input_tree": "archaea/infer/intermediate_results/gtdbtk.ar53.unrooted.tree",
+            "gtdbtk_classification_file": null,
+            "custom_taxonomy_file": "classification_wOutgroup.txt",
+            "outgroup_taxon": "p__Undinarchaeota"
+        },
+        {
+            "name": "decorate",
+            "output_dir": null,
+            "starts_at": "2024-02-19T14:29:48.054519",
+            "ends_at": "2024-02-19T14:29:48.728653",
+            "duration": "0:00:00",
+            "status": "completed",
+            "input_tree": "archaea/infer/intermediate_results/gtdbtk.ar53.rooted.tree",
+            "gtdbtk_classification_file": null,
+            "custom_taxonomy_file": "classification_wOutgroup.txt",
+            "suffix": "ar53",
+            "output_files": {
+                "all": [
+                    "archaea/infer/gtdbtk.ar53.decorated.tree-table",
+                    "archaea/infer/gtdbtk.ar53.decorated.tree-taxonomy",
+                    "archaea/infer/gtdbtk.ar53.decorated.tree"
+                ]
+            }
+        }
+    ],
+    "output_dir": "archaea",
+    "path": "archaea/gtdbtk.json"
+}

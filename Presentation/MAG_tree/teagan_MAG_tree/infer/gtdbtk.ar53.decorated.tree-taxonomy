@@ -1,0 +1,523 @@
+GCA_002495465.1_ASM249546v1_genomic	d__Archaea; p__Undinarchaeota; c__Undinarchaeia; o__Undinarchaeales; f__Undinarchaeaceae; g__Undinarchaeum; s__Undinarchaeum marinum
+OWC_0005	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__; s__
+PLTK01	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003164415
+20160700_E25_7	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__
+20130700_C2M_14	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003158115
+PLKI01	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003158115
+PLAP01	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003158115
+20160700_E25_10	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003158115
+20170700_S35_20	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003158115
+20140700_E14_6	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003158115
+PMJI01	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003158115
+20111000_S2D_4	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003158115
+20130700_S2D_11	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003158115
+20120800_S1D_9	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003158115
+PLUD01	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003158115
+20130700_S2M_13	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003158115
+20120600_S2D_10	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003158115
+3300036879_12	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003158115
+PMGM01	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003158115
+20120700_P3D_99	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003151535
+PLXT01	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003151535
+Fen.Labelled.R2.T1.F2.trimmomatic.megahit_bin.33_75.70_4.00	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Labelled.R1.T1.F1.trimmomatic.metaspades_bin.7_80.00_4.00	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Unlabelled.R1.T2.F1.trimmomatic.megahit_bin.66_73.30_3.47	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Unlabelled.R3.T2.F1.trimmomatic.metaspades_bin.18_75.52_0.00	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Labelled.R3.T1.F1.JGI.BFC.metaspades_bin.17_91.10_7.60	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Labelled.R2.T3.F1.trimmomatic.megahit_bin.60_76.58_3.24	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Unlabelled.R1.T1.F1.trimmomatic.metaspades_bin.18_78.79_1.60	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Unlabelled.R2.T1.F1.trimmomatic.megahit_bin.15_78.99_8.00	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Unlabelled.R2.T3.F1.trimmomatic.megahit_bin.72_79.99_5.64	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Unlabelled.R1.T3.F1.trimmomatic.metaspades_bin.103_70.94_0.80	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Labelled.R2.T1.F1.JGI.BFC.metaspades_bin.7_80.70_3.64	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Labelled.R3.T2.F1.trimmomatic.megahit_bin.18_82.32_8.80	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Labelled.R2.T2.F1.JGI.BFC.metaspades_bin.36_84.98_5.60	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.2_73.89_4.40	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Unlabelled.R3.T1.F1.trimmomatic.metaspades_bin.70_79.20_1.87	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Labelled.R3.T1.F1.trimmomatic.metaspades_bin.4_83.17_2.00	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Unlabelled.R2.T1.F1.trimmomatic.metaspades_bin.16_83.13_0.80	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Labelled.R2.T2.F1.trimmomatic.metaspades_bin.57_80.79_2.40	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+PMMY01	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Labelled.R2.T3.F1.trimmomatic.metaspades_bin.35_77.55_4.44	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Labelled.R1.T2.F1.trimmomatic.metaspades_bin.35_83.86_0.80	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Labelled.R1.T2.F1.trimmomatic.megahit_bin.37_82.87_2.40	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Unlabelled.R1.T3.F1.trimmomatic.megahit_bin.70_78.60_1.60	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.105_81.22_1.20	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162655
+PMMV01	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162115
+PMBJ01	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162115
+20100900_E3D_21	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162115
+PMNL01	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_B; s__Methanobacterium_B sp003162115
+OWC_0004	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__
+20100900_E3D_5	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003161815
+3300037065_9	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003161815
+PMNN01	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003161815
+20120600_E3D_43	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003161815
+20150700_S15_14	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+20140700_S14_12	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+3300036888_7	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+20150700_S24_16	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+3300026368_3	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+3300022830_3	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+PMRR01	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+20120600_E2D_58	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+20150700_S14_7	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+20110600_S3M_16	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+20140700_S15_5	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+PMKI01	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+PLHB01	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+20110800_S2D_12	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+20150700_S25_6	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+3300037208_8	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+20110700_S2D_21	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+PMWA01	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+3300036889_12	d__Archaea; p__Methanobacteriota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobacterium_A; s__Methanobacterium_A sp003166335
+OWC_0000	d__Archaea; p__Asgardarchaeota; c__Lokiarchaeia; o__Helarchaeales; f__HEL-GB-A; g__; s__
+OWC_0001	d__Archaea; p__Thermoproteota; c__Methanomethylicia; o__Methanomethylicales; f__Methanomethylicaceae; g__Methanomethylicus; s__
+OWC_0002	d__Archaea; p__Thermoproteota; c__Methanomethylicia; o__Methanomethylicales; f__Methanomethylicaceae; g__VGLU01; s__
+OWC_0003	d__Archaea; p__Thermoproteota; c__Methanomethylicia; o__Methanomethylicales; f__Methanomethylicaceae; g__VGLU01; s__
+OWC_0037	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanospirillaceae; g__Methanospirillum; s__
+OWC_0038	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanospirillaceae; g__Methanospirillum; s__
+Yojoa_06_2021_R_hypo_K_bin.10	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanospirillaceae; g__Methanospirillum; s__
+PPR_1022_P8D_M_E_concat_coassembly_mesocosms_megahit_bin.138	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanosphaerulaceae; g__UBA288; s__
+OWC_0076	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0077	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0078	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0079	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0086	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0084	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0085	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0082	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0083	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0080	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0081	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0071	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0072	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0073	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0074	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0075	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0070	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0068	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0069	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0062	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0063	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0064	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0067	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0065	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+OWC_0066	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__JACTUA01; g__JACTUA01; s__
+Yojoa_06_2019_B_hypo_B_bin.166	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+Yojoa_06_2019_Q_hypo_A_bin.59	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+OWC_0049	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+20120800_E3D_6	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003170075
+20110800_E3D_36	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003170075
+PMZU01	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003170075
+3300036885_13	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003170075
+20120800_E1X_9	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+3300039216_15	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+20120800_E1X_3	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+20120700_E1X_4	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003136075
+PNBP01	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003136075
+OWC_0052	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+20130700_E2Z_10	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+3300037089_14	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+20120800_E1X_16	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003141335
+3300036886_19	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003141335
+20130700_E3Z_4	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003141335
+PLLR01	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003141335
+20120800_E3X_11	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003141335
+OWC_0051	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+20120600_E2D_40	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003154335
+PMBL01	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003154335
+PMDE01	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003154335
+20110800_E1S_5	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003154335
+20110800_E1M_1	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003154335
+PNBJ01	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003154335
+OWC_0053	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+OWC_0054	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+OWC_0055	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+PPR_0822_P8D_P7D_M_D_coassembly_megahit_bin.36	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+20130700_C1D_1	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+OWC_0058	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+OWC_0056	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+OWC_0057	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+OWC_0059	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+20120700_E3M_5	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+PPR_2015_metabat2.147	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+metabat2.147	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+OWC_0061	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+PPR_1022_P7D_M_E_concat_coassembly_mesocosms_megahit_bin.197	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+OWC_0060	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+20130700_E3M_9	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+3300037365_14	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+3300038462_12	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+3300037106_11	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+20100900_E1D_17	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+20130700_C1M_3	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003157895
+20120600_E1D_58	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003157895
+PMXY01	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003157895
+20130700_C2X_2	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003157895
+20130700_C2Y_3	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003157895
+20110800_E1S_6	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003157895
+20110800_E1M_2	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003157895
+3300037356_8	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003157895
+20130700_C1D_17	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003157895
+PMKW01	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003157895
+20110800_E2S_8	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003157895
+PMXW01	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__Methanoregula sp003157895
+3300037551_8	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+20150700_E35_11	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+3300037062_11	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+PPR_1022_P8D_M_E_Control4_Day30_megahit_bin.5	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+PPR_1022_P8D_M_E_Formate2_Day30_megahit_bin.13	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+3300037104_21	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+OWC_0050	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanoregula; s__
+OWC_0039	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__CAIKOD01; s__
+Yojoa_06_2019_Q_hypo_AN_bin.39	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__CAIKOD01; s__
+Yojoa_06_2019_Q_hypo_A_bin.114	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__CAIKOD01; s__
+OWC_0041	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+OWC_0040	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+OWC_0043	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__Methanolinea_A; s__
+OWC_0046	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__UBA9949; s__
+OWC_0047	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__UBA9949; s__
+OWC_0048	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__UBA9949; s__
+OWC_0045	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__UBA9949; s__
+OWC_0044	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__UBA9949; s__
+PPR_0522_0822_P7D_M_D_coassembly_megahit_bin.19	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__UBA467; s__
+PPR_1022_P8D_M_E_Formate2_Day30_megahit_bin.4	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__UBA467; s__
+PPR_1022_P8D_M_E_Control4_Day30_megahit_bin.25	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__UBA467; s__
+OWC_0042	d__Archaea; p__Halobacteriota; c__Methanomicrobia; o__Methanomicrobiales; f__Methanoregulaceae; g__; s__
+Yojoa_06_2019_Q_hypo_A_bin.137	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__; s__
+OWC_0016	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__JALHSR01; s__
+OWC_0017	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__JALHSR01; s__
+OWC_0018	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__JALHSR01; s__
+20110800_E2M_7	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Fen-7; s__Fen-7 sp003162615
+PMYV01	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Fen-7; s__Fen-7 sp003162615
+20120600_E1D_22	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Fen-7; s__Fen-7 sp003162615
+PMKY01	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Fen-7; s__Fen-7 sp003162615
+20120600_E3D_10	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Fen-7; s__Fen-7 sp003162615
+PMIM01	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Fen-7; s__Fen-7 sp003162615
+PMNG01	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Fen-7; s__Fen-7 sp003162615
+20100900_E3D_15	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Fen-7; s__Fen-7 sp003162615
+20120600_E2D_42	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Fen-7; s__Fen-7 sp003162615
+OWC_0021	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+OWC_0022	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+OWC_0019	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+PPR_2015_bin.308	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__Methanothrix sp003857025
+bin.308	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__Methanothrix sp003857025
+20110800_E2S_9	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+20120600_E1D_57	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+20120600_E2D_50	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+3300038459_14	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+3300037104_19	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+20110800_E2M_9	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+20110800_E1S_4	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+Yojoa_06_2019_Q_hypo_A_bin.78	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+Yojoa_06_2019_B_hypo_B_bin.19	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+Yojoa_06_2019_Q_hypo_A_bin.111	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+PPR_1022_P8D_M_E_concat_coassembly_mesocosms_megahit_bin.87	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+PPR_1022_P7D_M_E_concat_coassembly_mesocosms_megahit_bin.96	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+PPR_0822_P7D_M_D_IS2_megahit_bin.19	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+PPR_0822_P7D_M_D_idba_bin.22	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+OWC_0020	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+OWC_0023	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+PPR_0522_P7D_M_D_idba_bin.12.fa.renamed	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+PPR_1022_P7D_M_E_Control2_Day30_IS1_megahit_bin.2	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__
+OWC_0024	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__Methanothrix sp002256595
+OWC_0028	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__Methanothrix sp002256595
+OWC_0029	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__Methanothrix sp002256595
+OWC_0033	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__Methanothrix sp002256595
+OWC_0027	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__Methanothrix sp002256595
+OWC_0030	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__Methanothrix sp002256595
+OWC_0031	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__Methanothrix sp002256595
+OWC_0026	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__Methanothrix sp002256595
+OWC_0025	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__Methanothrix sp002256595
+OWC_0034	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__Methanothrix sp002256595
+OWC_0032	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanotrichales; f__Methanotrichaceae; g__Methanothrix; s__Methanothrix sp002256595
+OWC_0015	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanoperedenaceae; g__Methanoperedens; s__
+OWC_0818_M1_M_CoA1_E05E08E09_bin.40	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__
+20120600_E2D_39	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__Methanosarcina sp003157235
+PMJC01	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__Methanosarcina sp003157235
+20170700_S33_16	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__Methanosarcina sp003164755
+20150700_E15_21	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__Methanosarcina sp003164755
+20120700_S1D_59	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__Methanosarcina sp003164755
+20170700_S35_11	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__Methanosarcina sp003164755
+20110800_S3M_12	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__Methanosarcina sp003164755
+20110800_S3D_8	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__Methanosarcina sp003164755
+PLUB01	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__Methanosarcina sp003164755
+20160700_E25_17	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__Methanosarcina sp003164755
+20140700_E14_1	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanosarcina; s__
+PPR_1022_P7D_M_E_Methanol3_megahit_bin.6	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanolobus; s__
+PPR_1022_P8D_M_E_Methanol3_Day30_megahit_bin.43	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanolobus; s__Methanolobus sp002501695
+OWC_0818_M1_M_E05.bin.15	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanomethylovorans; s__Methanomethylovorans hollandica
+PPR_1022_P8D_M_E_Methanol3_Day30_IS1_megahit_bin.2	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanomethylovorans; s__
+PPR_1022_P8D_M_E_concat_coassembly_mesocosms_megahit_bin.160	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanomethylovorans; s__
+PPR_1022_P7D_M_E_Methanol3_megahit_bin.16	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanomethylovorans; s__
+PPR_1022_P8D_M_E_Methanol3_Day30_megahit_bin.37	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanomethylovorans; s__
+PPR_1022_P8D_M_E_concat_coassembly_mesocosms_is1_megahit_bin.46	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanomethylovorans; s__
+PPR_1022_P7D_M_E_Methanol3_megahit_bin.21	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanomethylovorans; s__Methanomethylovorans sp002508425
+OWC_0818_M1_M_E09.bin.38	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanomethylovorans; s__Methanomethylovorans sp002508425
+OWC_0818_M1_M_E017E020E021E022_Coassembly_bin.36	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanomethylovorans; s__Methanomethylovorans sp002508425
+OWC_0818_M1_M_E021_D31_DNA_S88_L002_bin.7	d__Archaea; p__Halobacteriota; c__Methanosarcinia; o__Methanosarcinales; f__Methanosarcinaceae; g__Methanomethylovorans; s__Methanomethylovorans sp002508425
+OWC_0036	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__; s__
+OWC_0035	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__
+20130700_E3Y_11	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003170935
+20120800_E2D_14	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003170935
+3300037087_20	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003170935
+PMYA01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003170935
+20110800_E2D_21	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003170935
+20130700_E1Z_12	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003170935
+PLNM01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003170935
+20130700_E1Y_15	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003170935
+3300036884_20	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003170935
+20110800_E3D_39	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003170935
+20120800_E2X_5	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003170935
+20120800_E3S_13	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003170935
+20110600_E3M_2	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+3300037428_6	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20160700_S35_7	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20140700_S26_5	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20160700_S25_1	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+PLVJ01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20120800_S2X_12	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20110800_S3D_12	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+PLGO01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20140700_S15_15	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20150700_S35_10	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20150700_S34_6	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20150700_S14_13	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+PLPX01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+20120700_S3D_1	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+3300036906_9	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+3300037084_9	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+PMIN01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+3300037103_10	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+3300023088_11	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+20130700_S1Y_7	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+3300037102_11	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+20120700_S2X_11	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+20160700_S15_10	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+20130700_S1Z_1	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+3300037171_10	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+20170700_S25_41	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+3300036787_8	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+3300037175_7	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+PLPZ01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+20120700_S3X_23	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+PLPC01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+20110800_S1D_12	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855; s__Bog-38 sp003158275
+20150700_S15_2	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+PLIF01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+PLQV01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20130700_S3Z_2	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+3300037161_7	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20120700_S1X_13	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20130700_S2Y_2	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20140700_S16_17	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+3300036908_9	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+3300037101_6	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20130700_S1X_16	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20150700_S25_13	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+3300036907_5	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+3300036889_8	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20140700_S36_12	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20170700_E14_9	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20130700_S2X_16	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20110600_S2D_10	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20110600_S3M_15	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20140700_S24_10	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+PMQE01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+PMRI01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20130700_S2D_6	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20110700_S2D_7	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+PLKL01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+3300037396_11	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20140700_S14_9	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+3300037208_6	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20120800_S1D_7	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+3300023101_11	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20170700_S33_15	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+PLHG01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20160700_S34_15	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20110700_S2M_10	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+PMWE01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+3300037060_10	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20150700_S24_3	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+PLTM01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20110800_S2M_10	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20110800_S1M_28	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20110800_S2D_14	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+3300037207_11	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+3300037176_12	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20120800_S1X_7	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+PLWI01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+PLGY01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20120700_S1D_23	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20120600_S2D_7	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+PMGQ01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+3300023090_6	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+3300036880_13	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+PMVN01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20170700_S34_22	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+3300022524_5	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+3300037236_4	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003139855
+20130700_E3D_2	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20120500_P19_2	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20120500_P28_13	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PKWV01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PKYL01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300036885_20	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20130700_E3X_6	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20111000_E3D_6	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PLEN01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20120800_E2D_16	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300038460_12	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20120700_E2D_9	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20130700_E2D_1	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20160700_E34_1	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300036912_8	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20120800_E2M_1	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300023248_8	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMID01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20110600_E3D_3	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMNV01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20110700_E2D_8	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20130700_E1D_6	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20150700_E35_3	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20111000_E2D_5	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PLEP01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMNX01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300036494_4	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20100900_E1D_11	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20150700_E25_6	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20160700_E15_6	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300033798_7	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300037162_8	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20130700_E1S_5	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20130700_E1M_3	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20150700_E24_3	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20140700_E22_3	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20130700_E3S_1	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20150700_E11_1	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20120800_E2S_2	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20160700_E13_2	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300037061_9	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20110600_E2D_6	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300037210_11	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20110700_E1D_2	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMRX01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300037106_12	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMYQ01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMEE01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20160700_E14_4	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMYZ01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20110800_E2S_7	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300036436_3	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20110800_E2M_11	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20160700_E33_8	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20110700_E1M_1	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300036377_3	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300038475_9	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20110600_E3M_5	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300033827_7	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300038474_10	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20110800_E1S_1	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300036913_14	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20110600_E3S_3	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMMZ01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMEP01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMRZ01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300036417_4	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMCV01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMMC01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20160700_E35_8	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20100900_E1S_1	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMMP01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMEK01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMSD01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20150700_E33_3	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300026451_4	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20120600_E3M_1	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300037163_8	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PLNA01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20140700_E12_1	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300037387_8	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300037065_11	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300036495_5	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300036931_14	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300037049_11	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300037062_13	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20140700_E15_9	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300037214_10	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20110800_E1M_4	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20110600_E1D_2	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMJH01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMXU01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20100900_E3D_6	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20100900_E2D_3	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMMR01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20120600_E3D_12	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300036929_10	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMLP01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300036914_5	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20120700_E1M_1	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMEQ01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMKO01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMNS01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PLOJ01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMNR01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300037215_6	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300037167_8	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20110700_E2M_5	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300037209_8	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300037216_11	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20140700_E14_5	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20120700_E1S_2	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20110700_E3M_8	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMSF01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300036385_3	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20120600_E2D_10	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+3300037551_9	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20120600_E1D_45	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+PMXX01	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+20150700_E34_2	d__Archaea; p__Halobacteriota; c__Bog-38; o__Bog-38; f__Bog-38; g__Bog-38; s__Bog-38 sp003162175
+OWC_0010	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__; s__
+PPR_0822_P7D_M_D_megahit_bin.19	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__UBA472; s__
+PPR_0822_P7D_M_D_idba_bin.55	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__UBA472; s__
+PPR_0522_0822_P7D_M_D_coassembly_megahit_bin.118	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__UBA472; s__
+PPR_1022_P7D_M_E_Formate3_megahit_bin.30	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__UBA472; s__
+PPR_1022_P7D_M_E_Control2_megahit_bin.17	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__UBA472; s__
+20110800_E2S_11	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__; s__
+OWC_0818_M1_M_E017E020E021E022_Coassembly_bin.12	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__; s__
+OWC_0818_M1_M_E022_D31_DNA_S89_L002_bin.7	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__MVRC01; s__
+OWC_0818_M1_M_E017E020E021E022_Coassembly_bin.50	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__MVRC01; s__
+OWC_0818_M1_M_E022_D31_DNA_S89_L002_bin.10	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__MVRC01; s__
+Yojoa_06_2021_B_hypo_A_bin.99	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__MVRC01; s__
+Yojoa_06_2021_R_hypo_A_bin.106	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__MVRC01; s__
+OWC_0011	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__; s__
+OWC_0013	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__; s__
+OWC_0014	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__; s__
+OWC_0012	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__FEN-33; s__
+PMBU01	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__FEN-33; s__FEN-33 sp003153895
+20110800_E2D_16	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__FEN-33; s__FEN-33 sp003135935
+20110800_E3D_10	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__FEN-33; s__FEN-33 sp003135935
+PNBI01	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; g__FEN-33; s__FEN-33 sp003135935
+OWC_0006	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; f__JACIVX01; g__; s__
+OWC_0007	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; f__JACIVX01; g__DYTM01; s__
+OWC_0008	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; f__JACIVX01; g__; s__
+OWC_0009	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__UBA472; f__JACIVX01; g__; s__
+Su22_1856_I_D90_E_bin.152	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__Methanomethylophilaceae; g__Methanarcanum; s__
+Su22_1894_T_D90_A_bin.224	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__Methanomethylophilaceae; g__Methanarcanum; s__Methanarcanum sp017455785
+Su22_1894_T_D90_Am_bin.31	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__Methanomethylophilaceae; g__Methanarcanum; s__Methanarcanum sp017455785
+OWC_0818_M1_M_E09.bin.39	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__Methanomethylophilaceae; g__Methanogranum; s__
+Su22_1856_I_D90_Am_bin.41	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__Methanomethylophilaceae; g__UBA71; s__
+Su22_1853_A_D90_Am_bin.197	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__Methanomethylophilaceae; g__UBA71; s__
+Su22_1894_T_D90_Am_bin.82	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__Methanomethylophilaceae; g__UBA71; s__
+Su22_1894_T_D90_A_bin.232	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__Methanomethylophilaceae; g__UBA71; s__
+Su22_1894_T_D90_A_bin.77	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__Methanomethylophilaceae; g__UBA71; s__
+Su22_1894_T_D90_Am_bin.233	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__Methanomethylophilaceae; g__UBA71; s__
+Su22_1853_A_D90_Am_bin.234	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__Methanomethylophilaceae; g__UBA71; s__
+Su22_1856_I_D90_A_bin.493	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__Methanomethylophilaceae; g__UBA71; s__
+Su22_1856_I_D90_Am_bin.578	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__Methanomethylophilaceae; g__UBA71; s__
+Su22_1894_T_D90_Am_bin.347	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__Methanomethylophilaceae; g__UBA71; s__
+Su22_1894_T_D90_D_bin.235	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__Methanomethylophilaceae; g__UBA71; s__
+Su22_1845_C_D90_Am_bin.168	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__Methanomethylophilaceae; g__UBA71; s__
+Su22_1845_C_D90_A_bin.94	d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__Methanomassiliicoccales; f__Methanomethylophilaceae; g__UBA71; s__
